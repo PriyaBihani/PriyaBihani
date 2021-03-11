@@ -45,34 +45,18 @@ I'm [Priya Bihani](https://know-priya-bihani.vercel.app/), I'm an experienced ME
 <p align="center">
   <i>Let's connect and chat! Find me on the web...</i>
   
-   [![Website Badge](https://img.shields.io/badge/-priya-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://know-priya-bihani.vercel.app/)](https://know-priya-bihani.vercel.app/)
+  <div align="center">
+ [![Website Badge](https://img.shields.io/badge/-priya-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://know-priya-bihani.vercel.app/)](https://know-priya-bihani.vercel.app/)
    [![Linkedin Badge](https://img.shields.io/badge/-priyabihani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priya-bihani-81a5661b8/)](https://www.linkedin.com/in/priya-bihani-81a5661b8/) 
    [![Gmail Badge](https://img.shields.io/badge/-v.priyabihani.official-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:priyabihani.official@gmail.com)](mailto:priyabihani.official@gmail.com)
    [![Instagram Badge](https://img.shields.io/badge/-@bihani.priya-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/bihani.priya/)](https://instagram.com/bihani.priya) 
  [![Twitter Badge](https://img.shields.io/badge/-@p_bihani-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/p_bihani)](https://twitter.com/p_bihani) 
-
+</div>
   <p align="center">
     Show ❤️ by starring repositories you find good! 
   </p>
 </p>
 
-<p align="center">
-  <i>Let's connect and chat! Find me on the web...</i>
-  
-      [![Website Badge](https://img.shields.io/badge/-priya-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://know-priya-bihani.vercel.app/)](https://know-priya-bihani.vercel.app/)
-   [![Linkedin Badge](https://img.shields.io/badge/-priyabihani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priya-bihani-81a5661b8/)](https://www.linkedin.com/in/priya-bihani-81a5661b8/) 
-   [![Gmail Badge](https://img.shields.io/badge/-v.priyabihani.official-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:priyabihani.official@gmail.com)](mailto:priyabihani.official@gmail.com)
-   [![Instagram Badge](https://img.shields.io/badge/-@bihani.priya-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/bihani.priya/)](https://instagram.com/bihani.priya) 
- [![Twitter Badge](https://img.shields.io/badge/-@p_bihani-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/p_bihani)](https://twitter.com/p_bihani) 
-
-  <p align="center">
-    Show ❤️ by starring repositories you find good! 
-    <br />
-    ⭐️ From [Anushka Verma](https://github.com/verma-anushka)
-    <br />
-    Also, star and fork this repository if you wish to give this new feature a try!
-  </p>
-</p>
 
 <div align="right">
   
