@@ -28,7 +28,6 @@ I'm [Priya Bihani](https://know-priya-bihani.vercel.app/), I'm an experienced ME
   </p>
 
 ---
----
 
 **Github Stats:**
 
@@ -37,8 +36,6 @@ I'm [Priya Bihani](https://know-priya-bihani.vercel.app/), I'm an experienced ME
     &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=PriyaBihani&hide=stars&show_icons=true&theme=dracula&line_height=32">
 </p>
-
----
 
 ---
 
