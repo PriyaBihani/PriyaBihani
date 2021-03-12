@@ -33,7 +33,7 @@ I'm [Priya Bihani](https://know-priya-bihani.vercel.app/), I'm an experienced ME
 **Github Stats:**
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyaBihani&count_private=true&theme=dracula">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyaBihani&count_private=true&theme=dracula&layout=compact">
     &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=PriyaBihani&hide=stars&show_icons=true&theme=dracula&line_height=32">
 </p>
