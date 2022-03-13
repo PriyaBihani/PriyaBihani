@@ -12,6 +12,7 @@ I'm [Priya Bihani](https://know-priya-bihani.vercel.app/), I'm an experienced ME
   </div>
    <br /> 
 
+
 - <div>
     <img width="100" height="100" align='left' src="https://www.solarladder.com/logo.png" >
     ... Developer at SOlar Ladder working on a SAAS product for all the solar companies out there.
@@ -19,6 +20,7 @@ I'm [Priya Bihani](https://know-priya-bihani.vercel.app/), I'm an experienced ME
     <br /> 
   </div>
    <br /> 
+
 
 
 - <div>
