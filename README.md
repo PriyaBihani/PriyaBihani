@@ -5,6 +5,25 @@ I'm [Priya Bihani](https://know-priya-bihani.vercel.app/), I'm an experienced ME
 **Currently I am working ...**
 
 - <div>
+    <img width="100" height="100" align='left' src="https://www.solarladder.com/logo.png" >
+    ... Developer at SOlar Ladder working on a SAAS product for all the solar companies out there.
+    <br /> 
+    <br /> 
+  </div>
+   <br /> 
+
+
+- <div>
+    <img width="100" height="100" align='left' src="https://www.solarladder.com/logo.png" >
+    ... Google Summer of Code 2022 student developer @Rocket.Chat, created a UIKIT plugin that provides users with image manipulation options before sending  it.
+    <br />
+  <strong>View: </strong> <a href="https://docs.rocket.chat/contributors/google-summer-of-code/google-summer-of-code-2021" >GSOC 2021 Rocket.Chat</a> 
+    <br /> 
+    <br /> 
+  </div>
+   <br /> 
+
+- <div>
     <img width="250" height="100" align='left' src="https://dailykit-244-www.s3.us-east-2.amazonaws.com/file-export-5773385-1620227535366-0/Group+56-1.png" >
     ... as a <strong>Software Developer Intern</strong> at Dailykit where I have been assisting in the (design and) development of the he Only Trend-Responsive Food-Tech Solution You'll Ever Need Dailykit.
     <br />
