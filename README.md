@@ -5,6 +5,14 @@ I'm [Priya Bihani](https://know-priya-bihani.vercel.app/), I'm an experienced ME
 **Currently I am working ...**
 
 - <div>
+    <img width="100" height="100" align='left' src="https://fellowship.mlh.io/_next/image?url=%2Fimg%2Flogo-light.svg&w=384&q=75" >
+    ... MLH 2022 SPring fellow
+    <br /> 
+    <br /> 
+  </div>
+   <br /> 
+
+- <div>
     <img width="100" height="100" align='left' src="https://www.solarladder.com/logo.png" >
     ... Developer at SOlar Ladder working on a SAAS product for all the solar companies out there.
     <br /> 
@@ -14,7 +22,7 @@ I'm [Priya Bihani](https://know-priya-bihani.vercel.app/), I'm an experienced ME
 
 
 - <div>
-    <img width="100" height="100" align='left' src="https://www.solarladder.com/logo.png" >
+    <img width="100" height="100" align='left' src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/GSoC-icon.svg/1200px-GSoC-icon.svg.png" >
     ... Google Summer of Code 2022 student developer @Rocket.Chat, created a UIKIT plugin that provides users with image manipulation options before sending  it.
     <br />
   <strong>View: </strong> <a href="https://docs.rocket.chat/contributors/google-summer-of-code/google-summer-of-code-2021" >GSOC 2021 Rocket.Chat</a> 
